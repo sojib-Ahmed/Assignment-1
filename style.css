@@ -5,12 +5,17 @@ font-family: 'Raleway', sans-serif;
 .mi-22{
     color: #FFAD5A;
 }
+section{
+    display: flex;
+}
 .half-width{
         width: 50%;
-        padding-left:5%;
+        padding-left:5px;
+        text-align: justify;
 }
 .half-width img{
-    width: 60%;
+    width: 100%;
+    margin-top: 0px;
 }
 .link-button{
     text-decoration: none;
@@ -20,3 +25,4 @@ font-family: 'Raleway', sans-serif;
     font-weight: 700;
     border-radius: 5px;
 }
+#text{text-align: center;}
