@@ -26,3 +26,10 @@ section{
     border-radius: 5px;
 }
 #text{text-align: center;}
+.equal{
+    width: 30%;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
