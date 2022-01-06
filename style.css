@@ -3,6 +3,7 @@ body{
 font-family: 'Raleway', sans-serif;
 }
 #top-border{
+   text-justify: auto;
     border-left: 4px solid;
     border-color: #FF5959;
 }
@@ -10,8 +11,8 @@ section{
     display: flex;
 }
 .half-width{
-        width: 50%;
-        padding-left:5px;
+        width: 70%;
+        padding-left:10px;
         text-align: justify;
 }
 .half-width img{
@@ -33,7 +34,7 @@ section{
 .equal-1{
     background-color: grey;
   width: 300px;s
-  padding: 50px;
+  padding-left: 50px;
   margin: 10px;
  border-radius: 15px;
 }
@@ -50,4 +51,14 @@ section{
   padding: 50px;
   margin: 10px;
  border-radius: 15px;
+}
+#middle{
+    margin-top: 30px;
+    width: 100%;
+    padding-left:5%;
+}
+#last{
+    margin-top:40px;
+    width: 100%;
+    padding-left:5%;
 }
