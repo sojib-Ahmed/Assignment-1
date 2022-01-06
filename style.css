@@ -2,8 +2,9 @@ body{
     font-family: 'Poppins', sans-serif;
 font-family: 'Raleway', sans-serif;
 }
-.mi-22{
-    color: #FFAD5A;
+#top-border{
+    border-left: 4px solid;
+    border-color: #FF5959;
 }
 section{
     display: flex;
@@ -26,9 +27,27 @@ section{
     border-radius: 5px;
 }
 #text{text-align: center;}
-.equal{
-    width: 30%;
-    padding-left: 20px;
-    padding-right: 20px;
-
+#text span{
+    color: #FFAD5A ;
+}
+.equal-1{
+    background-color: grey;
+  width: 300px;s
+  padding: 50px;
+  margin: 10px;
+ border-radius: 15px;
+}
+.equal-2{
+    background-color: orchid;
+  width: 300px;s
+  padding: 50px;
+  margin: 10px;
+ border-radius: 10px;
+}
+.equal-3{
+    background-color:#28AFEA;
+  width: 300px;s
+  padding: 50px;
+  margin: 10px;
+ border-radius: 15px;
 }
