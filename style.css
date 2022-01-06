@@ -1,0 +1,22 @@
+body{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Raleway', sans-serif;
+}
+.mi-22{
+    color: #FFAD5A;
+}
+.half-width{
+        width: 50%;
+        padding-left:5%;
+}
+.half-width img{
+    size: 50%;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(#FF5959,#e66a51);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
