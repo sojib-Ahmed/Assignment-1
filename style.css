@@ -62,3 +62,17 @@ section{
     width: 100%;
     padding-left:5%;
 }
+.last1{
+    margin-top:10%;
+}
+
+.corona{
+    color: gold;
+}
+#bottom{
+    background-color:black;
+} 
+#last-text{
+    text-align: center;
+    color: white;
+}
