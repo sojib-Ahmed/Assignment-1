@@ -10,7 +10,7 @@ font-family: 'Raleway', sans-serif;
         padding-left:5%;
 }
 .half-width img{
-    size: 50%;
+    width: 60%;
 }
 .link-button{
     text-decoration: none;
