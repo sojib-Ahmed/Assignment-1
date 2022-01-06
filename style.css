@@ -33,29 +33,33 @@ section{
 }
 .equal-1{
     background-color: grey;
-  width: 300px;s
-  padding-left: 50px;
-  margin: 10px;
- border-radius: 15px;
+  width: 30%;
+  padding-left:2%;
+  margin:2%;
+ border-radius:6%;
 }
 .equal-2{
     background-color: orchid;
-  width: 300px;s
-  padding: 50px;
-  margin: 10px;
- border-radius: 10px;
+    width: 30%;
+    padding-left:2%;
+    margin:2%;
+   border-radius:6%;
 }
 .equal-3{
     background-color:#28AFEA;
-  width: 300px;s
-  padding: 50px;
-  margin: 10px;
- border-radius: 15px;
+    width: 30%;
+    padding-left:2%;
+    margin:2%;
+   border-radius:6%;
 }
 #middle{
     margin-top: 30px;
     width: 100%;
     padding-left:5%;
+    background-image: url(img/shapes/shape-1.png);
+    background-size: 250px;
+    background-repeat: no-repeat;
+    background-position: left;
 }
 #last{
     margin-top:40px;
@@ -64,6 +68,7 @@ section{
 }
 .last1{
     margin-top:10%;
+    
 }
 
 .corona{
