@@ -11,7 +11,7 @@ section{
     display: flex;
 }
 .half-width{
-        width: 70%;
+        width: 50%;
         padding-left:10px;
         text-align: justify;
 }
@@ -69,10 +69,11 @@ section{
 .corona{
     color: gold;
 }
+
 #bottom{
-    background-color:black;
-} 
-#last-text{
     text-align: center;
+     background-color:black;
     color: white;
-}
+    padding-left:50%;
+    font-style:italic;
+} 
